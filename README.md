@@ -2,13 +2,14 @@
 
 ## 📑 Índice de Módulos
 
-- [**Módulo 1**: Conceitos Básicos de Git e GitHub](#modulos1-4.md)
-- [**Módulo 2**: Cenários de União de Repositórios](#modulos1-4.md) 
-- [**Módulo 3**: Preparação e Backup](#modulos1-4.md)
-- [**Módulo 4**: Mesclagem Direta de Repositórios](#modulos1-4.md)  
-- [**Módulo 5**: Importação como Subdiretório com `git subtree`](#modulos5-7.md)
-- [**Módulo 6**: Integração com `git submodule`](#modulos5-7.md) 
-- [**Módulo 7**: Fluxos Práticos e Exemplos](#modulos5-7.md)  
+- [Módulo 1: Conceitos Básicos de Git e GitHub](./modulos1-4.md)  
+- [Módulo 2: Cenários de União de Repositórios](./modulos1-4.md)  
+- [Módulo 3: Preparação e Backup](./modulos1-4.md)  
+- [Módulo 4: Mesclagem Direta de Repositórios](./modulos1-4.md)  
+- [Módulo 5: Importação como Subdiretório com `git subtree`](./modulos5-7.md)  
+- [Módulo 6: Integração com `git submodule`](./modulos5-7.md)  
+- [Módulo 7: Fluxos Práticos e Exemplos](./modulos5-7.md)  
+
 
 ## 📌 Apresentação
 
